@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p 0x00-shell_basics/welcome/to/school 
+mkdir -p welcome/to/school
