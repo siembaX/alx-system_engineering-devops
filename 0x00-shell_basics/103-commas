@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -F -m -a -l !(. ..) 
+ls -map | sort -d 
