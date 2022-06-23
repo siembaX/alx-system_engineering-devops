@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /0x00-shell_basics/*[A-Z]* tmp/u
+mv [[:upper:]]* /tmp/u
